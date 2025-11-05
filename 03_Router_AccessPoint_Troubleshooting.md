@@ -6,7 +6,7 @@
 |------|-----|
 | Juniper Mist Documentation | https://www.juniper.net/documentation/us/en/software/mist/mist-wireless/topics/concept/ap-troubleshooting-overview.html |
 | StayFi Access Point Support | https://hubspot.stayfi.com/knowledge/troubleshooting-disconnected-access-points |
-
+ 
 ---
 
 ## When to Focus on Router/Access Point Issues
