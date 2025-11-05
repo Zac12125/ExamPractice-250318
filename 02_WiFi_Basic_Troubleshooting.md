@@ -97,3 +97,48 @@ If that doesn't work:
 
 If still not working, open Command Prompt as Administrator and run:
 
+netsh winsock reset
+netsh int ip reset
+ipconfig /release
+ipconfig /renew
+ipconfig /flushdns
+
+These commands reset network settings and can resolve persistent issues.
+
+### Step 8: Update Everything
+- Run Windows Update to get latest drivers
+- Check router manufacturer's website for firmware updates
+- Outdated drivers are a common cause of connectivity issues
+
+### Step 9: Test Alternative Network
+- If available, try connecting to 5 GHz network instead of 2.4 GHz (or vice versa)
+- Test on different Wi-Fi network entirely (friend's network, mobile hotspot)
+- This helps determine if issue is device or network-specific
+
+### Step 10: Escalate If Needed
+- If single device only: likely device driver or adapter issue
+- If multiple devices affected: likely router/network issue
+- If all networks fail: device hardware failure
+- Contact ISP if internet-wide outage confirmed
+
+---
+
+## Common Error Messages & Meanings
+
+| Error | Meaning | First Action |
+|-------|---------|--------------|
+| "Unable to connect" | Device can't authenticate or reach network | Forget network and reconnect |
+| "Couldn't get IP address" | Router not assigning IP properly | Restart router and laptop |
+| "Connected but no internet" | Wi-Fi connected but no internet access | Restart modem/router |
+| "Network not found" | SSID not broadcasting | Check router is powered on |
+| "Password incorrect" | Wrong password or keyboard layout issue | Verify password is correct |
+
+---
+
+## Tools That Help
+
+- **Windows Network Troubleshooter:** Settings > Network & Internet > Status > Network troubleshooter
+- **WiFi Analyzer Apps:** Shows which channels are congested
+- **Command Prompt Diagnostics:** ipconfig, ping, tracert for advanced troubleshooting
+- **Device Manager:** Check for driver issues under Network adapters
+
