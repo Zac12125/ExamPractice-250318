@@ -7,7 +7,7 @@
 | Microsoft Support | https://support.microsoft.com/en-us/windows/fix-wi-fi-connection-issues-in-windows-9424a1f7-6a3b-65a6-4d78-7f07eee84d2c |
 | AmorServ | https://amorserv.com/insights/how-to-troubleshoot-wireless-network-connectivity-issues-in-10-steps |
 | Speedtest Knowledge | https://www.speedtest.net/about/knowledge/simple-wifi-audit |
-
+ 
 ---
 
 ## Quick Fix Summary
