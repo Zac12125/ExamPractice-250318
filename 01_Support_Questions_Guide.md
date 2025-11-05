@@ -9,7 +9,7 @@
 **Issue:** Cannot connect to Office_Network Wi-Fi
 **Error Message:** "Unable to connect to the network"
 **Context:** Other devices (phone, tablet) can connect successfully
-
+ 
 ---
 
 ## Essential Support Questions to Ask the End User
